@@ -1,2 +1,2 @@
 # Bailey-Libraries
-This is the Arduino librares needed to setup and run Bailey
+This is to collect Arduino libraries needed to setup and run Bailey
